@@ -117,7 +117,7 @@ Decrypt with the same number of rails.
 ## Project Files
 
 ```
-ciphers.c          ← main source code
+groupproject.c     ← main source code
 cipher_report.docx ← group project report
 README.md          ← this file
 ```
