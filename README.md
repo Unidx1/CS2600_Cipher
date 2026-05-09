@@ -132,6 +132,6 @@ README.md          ← this file
 | Member 2 | Vigenere Cipher |
 | Member 3 | Atbash + Rail Fence |
 | Member 4 | Main menu, input validation, integration |
-
+| Member 5 | Project report |
 > 
 
